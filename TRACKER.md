@@ -28,6 +28,7 @@ flutter create flutter_scaffold_tracker
 | Flutter 版本 | 提交时间 |
 |---|---|
 | 3.35.7 | 2025-06-28 |
+| 3.38.10 | 2025-06-28 |
 
 ## 说明
 
